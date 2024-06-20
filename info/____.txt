@@ -1,0 +1,37 @@
+
+
+https://dastoys.ru/derevyannye-konstruktory/konstruktory-mechanical-wood/derevyannyy-konstruktor-vintovoy-gruzovik-samosval-194-detali/
+https://www.ozon.ru/context/detail/id/148225773/?utm_campaign=msk_kids_mp&utm_content=id_148225773%7Ccatid_7174&utm_medium=cpc&utm_source=cpc_yandex_market&ymclid=15486149925704563338800004
+https://rc-go.ru/cat/konstruktor-3d-derevyanniy-vintovoy-m-wood-gruzovik-samosval/?_openstat=bWFya2V0LnlhbmRleC5ydTsyINCa0L7QvdGB0YLRgNGD0LrRgtC-0YAgM0Qg0LTQtdGA0LXQstGP0L3QvdGL0Lkg0LLQuNC90YLQvtCy0L7QuSBNLVdPT0Qg0JPRgNGD0LfQvtCy0LjQui3RgdCw0LzQvtGB0LLQsNC7IC0gTVctMzAwMztWbkR0bnZrZi1qcm9IN0Z3RWdudTdnOw&frommarket=http%3A%2F%2Fmarket.yandex.ru%2Fpartner&ymclid=15486150245883651326800004
+https://toyterra.ru/catalog/derevyannyie-konstruktoryi-m-wood/konstruktor-3d-derevyannyiy-vintovoy-m-wood-gruzovik-samosval-art-mw-3003/?frommarket=http%3A%2F%2Fmarket.yandex.ru%2Fpartner&ymclid=15486150245883651326800002
+https://missmeralda.ru/konstrucktor/derevyannye-konstruktory/konstruktor-3d-derevyannyj-vintovoj-m-wood-gruzovik-samosval
+
+
+јлексей, здравствуйте. нужна вот така€ программа: вводом в поле ссылку на товар (это основна€ ссыллка), 
+плюс несколько дополнительных ссылок. программа с заданной периодичностью обходит ссылки, 
+считывает цены и показывает, как цена основной ссылки отличаетс€ от других.
+
+≈ще такой вопрос.   примеру, есть такой же товар на яндекс.маркете. ¬озможно ли искать минимальную цену на него и показывать ссылку и 
+цену вместе с дополнительными ссылками?
+
+плюс хотелось бы иметь отчет по всем товарам, к примеру, обновилась вс€ информаци€ и выводитс€ списком все цены и их 
+параметры, минимальна€ , на столько-то процентов выше минимальной и тд
+
+ўелкаешь подробнее и уже смотришь, где какие цены
+
+
+
+https://tproger.ru/digest/parse-html-via-php/
+https://soltau.ru/index.php/themes/dev/item/413
+https://www.ibm.com/developerworks/ru/library/x-xpathphp/
+
+https://code.google.com/archive/p/phpquery/
+
+file:///C:/WEB/Sites/htdocs/basic/code/simplehtmldom_1_8_1/manual/index.htm
+file:///C:/WEB/Sites/htdocs/basic/code/simplehtmldom_1_8_1/manual/manual_api.htm
+
+
+
+https://code.google.com/archive/p/phpquery/wikis/Selectors.wiki
+
+
